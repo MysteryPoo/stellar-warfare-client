@@ -1,0 +1,12 @@
+/// @description Properties
+m_MovementTier = 0;
+m_MovementCounter = 0;
+m_Throttle = 0;
+m_AgilityTier = 0;
+m_AgilityCounter = 0;
+m_ArmorTier = 0;
+m_ArmorCounter = 0;
+m_ShieldTier = 0;
+m_ShieldCounter = 0;
+m_TurretTier = 0;
+m_TurretCounter = 0;
